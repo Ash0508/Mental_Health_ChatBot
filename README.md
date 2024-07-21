@@ -1,4 +1,4 @@
-# Mental Health Care Chatbot
+![image](https://github.com/user-attachments/assets/067b2fe5-52ad-4bdc-9a19-d8b0e43bd30d)# Mental Health Care Chatbot
  
 This project is a chatbot implemented using natural language processing (NLP) techniques and a neural network architecture. The chatbot is designed to understand user queries and respond appropriately based on predefined intents.
 
@@ -32,7 +32,7 @@ Libraries/Frameworks : Flask, NLTK, Keras, Model Deployment, Version Control,
 
 # Sample Outputs :
 
-![image](https://github.com/sabariraj01/Mental-Health-Care_Chatbot/assets/114046096/3aa73594-5cda-4636-8536-21fc0466bb06)
+![image]([https://github.com/sabariraj01/Mental-Health-Care_Chatbot/assets/114046096/3aa73594-5cda-4636-8536-21fc0466bb06](https://drive.google.com/file/d/1lpUeFnQMxAMcgAgIuI1gkxujdLYD-UJX/view?usp=sharing))
 
 ![image](https://github.com/sabariraj01/Mental-Health-Care_Chatbot/assets/114046096/22371afd-129f-428a-9833-de0942c450a8)
 
